@@ -1,0 +1,18 @@
+.banner {
+  color: white;
+  height: 600px;
+  background-image: linear-gradient(rgba(0, 0, 0, 0.4), rgba(0, 0, 0, 0.2)),
+  url("../../images/amsterdam2.jfif");
+  background-size: cover;
+  background-position: center;
+}
+
+.banner p {
+  margin-bottom: 30px;
+  font-size: 18px;
+}
+
+.banner .container {
+  padding: 200px 0;
+}
+

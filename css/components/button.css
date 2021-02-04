@@ -1,0 +1,11 @@
+.btn {
+  background-color: rgba(36, 106, 129, 0.8);
+  padding: 12px 30px;
+  border-radius: 22px;
+  color: white;
+  font-weight: bold;
+}
+
+.btn:hover {
+  background-color: rgba(36, 106, 129,1.0);
+}
